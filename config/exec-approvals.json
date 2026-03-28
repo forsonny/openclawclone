@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "allowAlways": {
+    "commands": [
+      { "id": "a]1b2c3d4-e5f6-7890-abcd-ef1234567890", "pattern": "/usr/bin/which", "lastResolvedPath": "/usr/bin/which" },
+      { "id": "086c5351-bf4a-4e7a-8f68-b4dcb5a8c55c", "pattern": "/usr/bin/git", "lastUsedAt": 1774696613194 },
+      { "id": "70233202-5e0f-4dcb-969b-a22c46460e72", "pattern": "/usr/bin/mkdir", "lastUsedAt": 1774696620592 }
+    ]
+  }
+}
