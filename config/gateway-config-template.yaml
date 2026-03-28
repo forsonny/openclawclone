@@ -1,0 +1,19 @@
+# OpenClaw Gateway Configuration Template
+# Actual config lives at /root/.openclaw/gateway-config.yaml
+# This is a sanitized template — secrets excluded
+
+gateway:
+  controlUi:
+    allowInsecureAuth: true  # Safe: loopback-only, single-tenant Fly Machine
+    # Auth enforced via per-user HMAC gateway tokens
+
+# Channel configs go here (telegram, discord, etc.)
+# channels: {}
+
+# Heartbeat configuration
+# heartbeat:
+#   enabled: true
+#   intervalMinutes: 30
+
+# Cron jobs
+# cron: []
